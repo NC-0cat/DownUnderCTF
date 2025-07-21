@@ -1,3 +1,3 @@
-# DownUnderCTF
+# DownUnderCTF Write-ups
 
-our write-ups DownUnderCTF 
+Our challenge write-ups from DownUnderCTF 2025.
