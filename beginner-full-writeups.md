@@ -15,10 +15,7 @@ image:
 
 DownUnderCTF 6 was an engaging and well-organized 48-hour CTF featuring a wide range of challenges across various categories. This writeup covers my solutions to 27 out of 64 challenges, primarily ranging from beginner to easy difficulty, with a few at the medium level.
 
-**Competition Duration:** 48 Hours  
-**Team Placement:** 116 (solo participant in a team)  
-**Challenges Solved:** 27/64  
-**Final Score:** 2848
+**Competition Duration:** 48 Hours   
 
 ---
 
